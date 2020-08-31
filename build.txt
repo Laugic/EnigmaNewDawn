@@ -1,0 +1,3 @@
+displayName = Enigma New Dawn
+author = Laugic
+version = 0.1
